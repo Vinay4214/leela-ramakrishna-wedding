@@ -482,7 +482,7 @@ export default function WeddingWebsite() {
 
                 {/* 📍 GOOGLE MAP */}
                 <a
-                  href="https://www.google.com/maps?q=16.700703,81.775472"
+                  href="https://www.google.com/maps/search/?api=1&query=16.700703%2C81.775472"
                   target="_blank"
                   rel="noopener noreferrer"
                   style={{
@@ -576,7 +576,7 @@ export default function WeddingWebsite() {
 
                 {/* 📍 GOOGLE MAP BUTTON */}
                 <a
-                  href="https://www.google.com/maps?q=16.700703,81.775472"
+                  href="https://www.google.com/maps/search/?api=1&query=16.700703%2C81.775472"
                   target="_blank"
                   rel="noopener noreferrer"
                   style={{
