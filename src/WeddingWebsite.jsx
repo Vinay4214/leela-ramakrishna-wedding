@@ -82,7 +82,7 @@ function RotatingText({ en, te }) {
 
 /* -------- Main Component -------- */
 export default function WeddingWebsite() {
-  const weddingDate = new Date("2026-05-10T22:19:00+05:30");
+  const weddingDate = new Date("2026-05-07T22:31:00+05:30");
   const ganeshImage = `${import.meta.env.BASE_URL}ganesh.png`;
 
   const [timeLeft, setTimeLeft] = useState({});
@@ -482,7 +482,7 @@ export default function WeddingWebsite() {
 
                 {/* 📍 GOOGLE MAP */}
                 <a
-                  href="https://maps.app.goo.gl/3gPmf8T3m1DM3EHs6"
+                  href="https://www.google.com/maps?q=16.700703,81.775472"
                   target="_blank"
                   rel="noopener noreferrer"
                   style={{
@@ -576,7 +576,7 @@ export default function WeddingWebsite() {
 
                 {/* 📍 GOOGLE MAP BUTTON */}
                 <a
-                  href=" "
+                  href="https://www.google.com/maps?q=16.700703,81.775472"
                   target="_blank"
                   rel="noopener noreferrer"
                   style={{
